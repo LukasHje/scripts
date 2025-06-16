@@ -2,7 +2,7 @@
 
 # find_duplicates.sh
 # -------------------
-# Author: ChatGPT / OpenAI
+# Author: Lukas Hjernquist / ChatGPT 
 # Version: 1.0.0
 #
 # Finds duplicate media files (with suffixes like ' 2') and moves them to a
